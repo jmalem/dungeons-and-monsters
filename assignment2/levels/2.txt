@@ -1,0 +1,8 @@
+Treasure 5 5
+Treasure
+Enemy
+Switch
+Switch 3 3
+Boulder 4 4
+Sword 1 2
+Hunter 4 5

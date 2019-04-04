@@ -1,0 +1,2 @@
+Arrow 1 2
+Bomb 3 4

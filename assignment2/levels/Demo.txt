@@ -1,0 +1,47 @@
+Treasure
+Enemy
+Switch
+Exit 13 13
+Wall 4 1
+Wall 4 2
+Wall 4 3
+Wall 4 4
+Wall 4 5
+Pit 5 5
+Pit 6 5
+Pit 7 5
+Wall 1 5
+Boulder 2 5
+Boulder 2 4
+Sword 3 1
+Arrow 3 2
+Bomb 3 4
+Wall 3 5
+Wall 4 5
+Coward 4 13
+Hunter 10 13
+Wall 8 1
+Wall 8 2
+Wall 8 3
+Wall 8 4
+Wall 8 5
+Key 6 1
+Hound 9 2
+Strategist 9 1
+Treasure 13 1
+Wall 10 1
+Door 10 2
+Wall 10 3
+Wall 10 4
+Wall 11 4
+Door 12 4
+Wall 13 4
+Wall 7 13
+Hover 8 13
+Boulder 7 12
+Wall 7 11
+Wall 8 11
+Wall 9 11
+Wall 9 12
+Wall 9 13
+Switch 1 13
